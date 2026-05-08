@@ -322,9 +322,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - UI inspired by Vercel and leading SaaS platforms
 - Icons by Lucide React
 
-## 📞 Support
 
-For issues, questions, or suggestions, please open an GitHub issue or contact the team.
 
 ## 🗺️ Future Roadmap
 
